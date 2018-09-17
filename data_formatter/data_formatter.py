@@ -1,9 +1,7 @@
+from builtins import int
+import pandas as pd
+from datetime import datetime
 def excel_time_2_string(excel_time):
-    '''
-    converts excel float format to pandas datetime object
-    round to '1min' with
-    .dt.round('1min') to correct floating point conversion innaccuracy
-    '''
     t = pd.to_datetime('1899-12-30') + pd.to_timedelta(excel_time,'D')
     return t.strftime('%d.%m.%Y')
 
