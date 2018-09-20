@@ -39,5 +39,5 @@ After choosing my project, the company gave me the last version of the code they
   However, there were some serious problems with the datasets. The first one is since all addresses typed by humans, there is mismatch between datasets. Since we used addresses as an index for correlating water and electricity consumption, the same addresses should be matched. Since data is too large, formatting should be done by code, not human-hand. (Both datasets has over 300.000 row.)
 Before digging into the code, there are data types and formats which I used and transformed a lot during the internship. Therefore I write Python library that transforms these types and formats. 
 
-![Venn Chart](https://github.com/nailtosun/data_formatter/blob/master/venn-chart.png)
+![Venn Chart](https://github.com/nailtosun/data_formatter/blob/master/venn_diagram.png)
 
