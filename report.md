@@ -40,4 +40,4 @@ After choosing my project, the company gave me the last version of the code they
 Before digging into the code, there are data types and formats which I used and transformed a lot during the internship. Therefore I write Python library that transforms these types and formats. 
 
 ![Venn Chart](https://github.com/nailtosun/data_formatter/blob/master/venn_diagram.png)
-
+<div style="text-align:center"><img src ="https://github.com/nailtosun/data_formatter/blob/master/venn_diagram.png"/></div>
